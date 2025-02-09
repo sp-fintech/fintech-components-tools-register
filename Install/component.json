@@ -6,7 +6,7 @@
 	"app_type" : "fintech",
 	"category" : "tools",
 	"version" : "0.0.0",
-	"repo" : "https://github.com/sp-modules/fintech-components-tools-register",
+	"repo" : "https://github.com/sp-fintech/fintech-components-tools-register",
 	"class" : "Apps\\Fintech\\Components\\Register\\RegisterComponent",
 	"dependencies" : 
 	{
